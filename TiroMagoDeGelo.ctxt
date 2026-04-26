@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TiroMagoDeGelo
+comment0.text=\r\n\ Inimigo\ da\ torre\ da\ segunda\ fase\r\n
+comment1.params=velocidade
+comment1.target=TiroMagoDeGelo(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ TiroMagoDeGelo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

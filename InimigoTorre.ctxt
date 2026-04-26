@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InimigoTorre
+comment0.text=\r\n\ Base\ para\ inimigos\ posicionados\ em\ torres.\r\n\ Essa\ classe\ controla\:\r\n\ -\ intervalo\ entre\ disparos\r\n\ -\ troca\ de\ imagem\ ao\ atirar\r\n\ -\ retorno\ autom\u00E1tico\ \u00E0\ imagem\ normal\r\n\r\n\ Outras\ classes\ podem\ herdar\ desta\ para\ definir\r\n\ comportamentos\ espec\u00EDficos\ de\ tiro.\r\n
+comment1.params=normal\ semTiro\ intervaloTiro
+comment1.target=InimigoTorre(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage,\ int)
+comment1.text=\r\n\ Configura\ o\ inimigo\ da\ torre\:\r\n\ -\ imagem\ normal\r\n\ -\ imagem\ ap\u00F3s\ disparo\r\n\ -\ intervalo\ entre\ tiros\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Atualiza\u00E7\u00E3o\ do\ inimigo\:\r\n\ -\ conta\ tempo\ at\u00E9\ o\ pr\u00F3ximo\ tiro\r\n\ -\ inicia\ anima\u00E7\u00E3o\ de\ disparo\r\n\ -\ controla\ retorno\ autom\u00E1tico\ ao\ estado\ normal\r\n
+comment3.params=
+comment3.target=void\ atirar()
+comment3.text=\r\n\ Executa\ a\ anima\u00E7\u00E3o\ de\ disparo.\r\n\ Classes\ que\ herdam\ podem\ sobrescrever\ para\ criar\ o\ proj\u00E9til.\r\n
+numComments=4

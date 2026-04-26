@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TelaInstru\u00E7\u00F5es
+comment0.text=\r\n\ Descreve\ ao\ usu\u00E1rio\ como\ jogar\ o\ jogo\r\n
+comment1.params=
+comment1.target=TelaInstru\u00E7\u00F5es()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TelaInstru\u00E7\u00F5es.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

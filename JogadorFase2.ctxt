@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=JogadorFase2
+comment0.text=\r\n\ Jogador\ usado\ na\ Fase\ 2.\r\n\ \r\n\ Inclui\:\r\n\ \u2022\ redu\u00E7\u00E3o\ de\ velocidade\ ao\ pisar\ no\ gelo\r\n\ \u2022\ velocidade\ tempor\u00E1ria\ ao\ usar\ o\ Elixir\ Negro\r\n\ \u2022\ controle\ da\ chave\ para\ liberar\ a\ sa\u00EDda\r\n
+comment1.params=
+comment1.target=JogadorFase2()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ verificarGelo()
+comment3.text=\r\n\ Quando\ o\ jogador\ est\u00E1\ em\ contato\ com\ o\ gelo,\r\n\ sua\ velocidade\ \u00E9\ reduzida\ para\ simular\ escorregamento.\r\n\ Se\ n\u00E3o\ estiver\ no\ gelo,\ retorna\ \u00E0\ velocidade\ normal,\r\n\ exceto\ quando\ o\ efeito\ do\ Elixir\ Negro\ est\u00E1\ ativo.\r\n
+comment4.params=aumento\ duracao
+comment4.target=void\ ativarVelocidadeTemporaria(int,\ int)
+comment4.text=\r\n\ Ativa\ um\ aumento\ tempor\u00E1rio\ de\ velocidade.\r\n\ Usado\ quando\ o\ jogador\ coleta\ o\ Elixir\ Negro.\r\n
+comment5.params=
+comment5.target=void\ atualizarVelocidadeTemporaria()
+comment5.text=\r\n\ Conta\ o\ tempo\ do\ efeito\ do\ Elixir.\r\n\ Assim\ que\ acabar,\ retorna\ \u00E0\ velocidade\ normal.\r\n
+comment6.params=
+comment6.target=boolean\ podeUsarElixir()
+comment6.text=\r\n\ Permite\ que\ o\ jogador\ desta\ fase\ utilize\ o\ Elixir\ Negro.\r\n
+comment7.params=
+comment7.target=void\ coletarChave()
+comment7.text=\r\n\ Marca\ que\ a\ chave\ foi\ coletada.\r\n
+comment8.params=
+comment8.target=boolean\ temChave()
+comment8.text=\r\n\ Retorna\ se\ o\ jogador\ j\u00E1\ pegou\ a\ chave.\r\n\ Usado\ pela\ fase\ para\ abrir\ a\ sa\u00EDda.\r\n
+numComments=9

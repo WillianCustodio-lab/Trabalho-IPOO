@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GeradorChave
+comment0.text=\r\n\ Gerador\ respons\u00E1vel\ por\ criar\ a\ chave\ usada\ para\ liberar\ a\ sa\u00EDda.\r\n\r\n\ Ele\ s\u00F3\ gera\ uma\ \u00FAnica\ chave\ por\ fase\:\r\n\ -\ usa\ um\ booleano\ para\ evitar\ m\u00FAltiplas\ gera\u00E7\u00F5es\r\n\ -\ escolhe\ uma\ posi\u00E7\u00E3o\ livre\ no\ mapa\r\n\ -\ adiciona\ o\ item\ ao\ mundo\ quando\ estiver\ tudo\ certo\r\n
+comment1.params=fase
+comment1.target=GeradorChave(FaseBase)
+comment1.text=\r\n\ Inicia\ o\ gerador\ e\ reseta\ o\ controle\ da\ chave.\r\n
+comment2.params=
+comment2.target=void\ gerarItem()
+comment2.text=\r\n\ Tenta\ criar\ a\ chave\ em\ uma\ \u00E1rea\ livre\ da\ fase.\r\n\ S\u00F3\ funciona\ uma\ \u00FAnica\ vez.\r\n
+numComments=3

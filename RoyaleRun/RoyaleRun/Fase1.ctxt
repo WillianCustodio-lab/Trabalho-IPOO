@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Fase1
+comment0.text=\r\n\ Classe\ principal\ da\ primeira\ fase\ do\ jogo.\r\n\ Aqui\ o\ cen\u00E1rio\ \u00E9\ constru\u00EDdo,\ os\ inimigos\ e\ coroas\ s\u00E3o\ gerados\r\n\ e\ a\ l\u00F3gica\ principal\ do\ jogo\ \u00E9\ controlada\ (pontua\u00E7\u00E3o,\ derrota\ e\ vit\u00F3ria).\r\n
+comment1.params=
+comment1.target=Fase1()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ jogadorDerrotado()
+comment4.params=
+comment4.target=void\ liberarSaida()
+comment5.params=
+comment5.target=void\ jogoVencido()
+comment6.params=
+comment6.target=void\ started()
+comment7.params=
+comment7.target=void\ stopped()
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GolemDeGelo
+comment0.text=\r\n\ Inimigo\ Golem\ de\ Gelo.\r\n\ Mais\ lento,\ possui\ vida\ extra\ e\ ao\ morrer\ cria\ um\ bloco\ de\ gelo\ no\ ch\u00E3o.\r\n\ \r\n\ Reaproveita\ toda\ a\ estrutura\ da\ superclasse\ InimigoBase.\r\n
+comment1.params=
+comment1.target=GolemDeGelo()
+comment1.text=\r\n\ Construtor\ do\ Golem\ de\ Gelo.\r\n\ Configura\ anima\u00E7\u00F5es,\ velocidade\ reduzida\ e\ comportamento\ de\ movimento.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Loop\ principal\ do\ Golem.\r\n\ Anda\ lentamente\ e\ segue\ o\ mesmo\ comportamento\ dos\ b\u00E1rbaros.\r\n
+comment3.params=
+comment3.target=void\ levarDano()
+comment3.text=\r\n\ Reduz\ a\ vida\ do\ golem\ sempre\ que\ levar\ dano.\r\n
+comment4.params=
+comment4.target=void\ morrer()
+comment4.text=\r\n\ Remove\ o\ golem\ e\ cria\ um\ bloco\ de\ gelo\ no\ local\ da\ morte.\r\n
+numComments=5

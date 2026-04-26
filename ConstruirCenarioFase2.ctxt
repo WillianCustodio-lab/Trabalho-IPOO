@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ConstruirCenarioFase2
+comment0.text=\r\n\ Constr\u00F3i\ o\ cen\u00E1rio\ da\ segunda\ fase,\r\n\ com\ gelo,\ mago\ de\ gelo\ e\ o\ golem\ de\ gelo.\r\n
+comment1.params=mundo
+comment1.target=ConstruirCenarioFase2(FaseBase)
+comment2.params=
+comment2.target=void\ construirCenarioBase()
+numComments=3

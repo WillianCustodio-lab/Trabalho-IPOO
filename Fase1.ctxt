@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Fase1
+comment0.text=\r\n\ Primeira\ fase\ do\ jogo.\r\n\ Respons\u00E1vel\ por\ montar\ o\ cen\u00E1rio\ inicial,\ tocar\ a\ m\u00FAsica\ da\ fase,\r\n\ gerar\ inimigos\ e\ itens\ b\u00E1sicos,\ controlar\ a\ pontua\u00E7\u00E3o\ e\ verificar\r\n\ a\ condi\u00E7\u00E3o\ de\ libera\u00E7\u00E3o\ da\ sa\u00EDda.\r\n
+comment1.params=
+comment1.target=Fase1()
+comment1.text=\r\n\ Constr\u00F3i\ e\ prepara\ todos\ os\ elementos\ da\ fase.\r\n\ Isso\ inclui\ cen\u00E1rio,\ pontua\u00E7\u00E3o\ inicial,\ geradores\ e\ m\u00FAsica.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Atualiza\u00E7\u00F5es\ constantes\ da\ fase.\r\n\ Aqui\ s\u00E3o\ gerados\ inimigos,\ itens\ e\ verificada\ a\ pontua\u00E7\u00E3o\r\n\ para\ liberar\ a\ sa\u00EDda\ quando\ necess\u00E1rio.\r\n
+comment3.params=
+comment3.target=void\ jogadorDerrotado()
+comment3.text=\r\n\ O\ que\ acontece\ quando\ o\ jogador\ \u00E9\ derrotado\ nesta\ fase.\r\n\ Para\ fase\ 1,\ a\ m\u00FAsica\ \u00E9\ parada\ e\ a\ tela\ de\ derrota\ \u00E9\ exibida.\r\n
+comment4.params=
+comment4.target=void\ jogadorVenceu()
+comment4.text=\r\n\ Chamado\ quando\ o\ jogador\ alcan\u00E7a\ a\ sa\u00EDda.\r\n\ Envia\ para\ a\ tela\ de\ vit\u00F3ria\ espec\u00EDfica\ da\ fase\ 1.\r\n
+comment5.params=
+comment5.target=void\ started()
+comment5.text=\r\n\ Controle\ da\ m\u00FAsica\ quando\ a\ fase\ volta\ a\ ficar\ ativa.\r\n
+comment6.params=
+comment6.target=void\ stopped()
+comment6.text=\r\n\ Controle\ da\ m\u00FAsica\ quando\ a\ fase\ perde\ foco\r\n\ ou\ quando\ o\ jogador\ muda\ de\ tela.\r\n
+numComments=7

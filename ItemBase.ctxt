@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ItemBase
+comment0.text=\r\n\ Classe\ base\ para\ todos\ os\ itens\ colet\u00E1veis\ do\ jogo.\r\n\r\n\ Responsabilidades\:\r\n\ -\ controlar\ a\ anima\u00E7\u00E3o\ do\ item\ (caso\ tenha\ mais\ de\ um\ quadro)\r\n\ -\ definir\ um\ ponto\ central\ para\ itens\ que\ usam\ imagens\ animadas\r\n\ -\ fornecer\ o\ m\u00E9todo\ coletar(),\ que\ ser\u00E1\ sobrescrito\ nas\ subclasses\r\n\r\n\ Cada\ item\ espec\u00EDfico\ (chave,\ coroa,\ elixir)\r\n\ herda\ desta\ classe\ e\ implementa\ o\ efeito\ de\ coleta.\r\n
+comment1.params=totalFrames\ baseNomeImagem
+comment1.target=ItemBase(int,\ java.lang.String)
+comment1.text=\r\n\ Construtor\:\r\n\ recebe\ o\ n\u00FAmero\ total\ de\ frames\ e\ o\ nome-base\ das\ imagens.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Atualiza\u00E7\u00E3o\ do\ item.\r\n\ Aqui\ fica\ apenas\ a\ anima\u00E7\u00E3o\ b\u00E1sica.\r\n\ A\ l\u00F3gica\ de\ coleta\ \u00E9\ responsabilidade\ das\ subclasses.\r\n
+comment3.params=jogador
+comment3.target=void\ coletar(JogadorBase)
+comment3.text=\r\n\ M\u00E9todo\ chamado\ quando\ o\ jogador\ coleta\ o\ item.\r\n\ Subclasses\ v\u00E3o\ sobrescrever\ para\ adicionar\ efeitos\ espec\u00EDficos.\r\n
+comment4.params=total\ nome
+comment4.target=void\ carregarImagens(int,\ java.lang.String)
+comment4.text=\r\n\ Carrega\ todas\ as\ imagens\ da\ anima\u00E7\u00E3o.\r\n
+comment5.params=
+comment5.target=void\ animar()
+comment5.text=\r\n\ Controla\ anima\u00E7\u00E3o\ do\ item,\ alternando\ os\ frames\ em\ loop.\r\n
+numComments=6

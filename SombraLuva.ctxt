@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SombraLuva
+comment0.text=\r\n\ Sombra\ que\ aparece\ antes\ da\ queda\ da\ Luva\ do\ Mega\ Cavaleiro.\r\n\ Ela\ cresce\ at\u00E9\ o\ tamanho\ final\ e\ ent\u00E3o\ gera\ a\ Luva\ no\ mesmo\ local.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ atualizarTamanho()
+comment3.params=
+comment3.target=void\ criarLuva()
+numComments=4

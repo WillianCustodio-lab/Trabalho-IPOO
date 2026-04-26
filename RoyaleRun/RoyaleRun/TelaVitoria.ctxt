@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TelaVitoria
+comment0.text=\r\n\ Tela\ de\ vit\u00F3ria\ ao\ atingir\ a\ pontua\u00E7\u00E3o\ do\ jogo\r\n
+comment1.params=
+comment1.target=TelaVitoria()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TelaVitoria.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ItemCoroa
+comment0.text=\r\n\ Item\ de\ pontua\u00E7\u00E3o.\r\n\ \r\n\ Sempre\ que\ coletado\:\r\n\ -\ adiciona\ pontos\ ao\ jogador\r\n\ -\ executa\ o\ som\ correspondente\r\n\ -\ remove\ a\ coroa\r\n\ -\ avisa\ o\ gerador\ para\ permitir\ o\ pr\u00F3ximo\ spawn\r\n
+comment1.params=
+comment1.target=ItemCoroa()
+comment2.params=jogador
+comment2.target=void\ coletar(JogadorBase)
+numComments=3

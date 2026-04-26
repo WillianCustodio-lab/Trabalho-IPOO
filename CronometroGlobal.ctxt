@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CronometroGlobal
+comment1.params=
+comment1.target=void\ iniciar()
+comment2.params=fase
+comment2.target=void\ finalizarFase(int)
+comment3.params=fase
+comment3.target=long\ getTempo(int)
+numComments=4

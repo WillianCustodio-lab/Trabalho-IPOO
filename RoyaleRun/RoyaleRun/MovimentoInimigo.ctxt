@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MovimentoInimigo
+comment0.text=\r\n\ Respons\u00E1vel\ por\ movimentar\ o\ inimigo\ dentro\ do\ cen\u00E1rio.\r\n\ Recebe\ a\ dire\u00E7\u00E3o\ desejada\ e\ aplica\ o\ deslocamento,\r\n\ respeitando\ obst\u00E1culos\ e\ tentando\ contornar\ quando\ poss\u00EDvel.\r\n
+comment1.params=inimigo\ velocidade
+comment1.target=MovimentoInimigo(Inimigo,\ int)
+comment2.params=direcao
+comment2.target=void\ mover(java.lang.String)
+comment2.text=\r\n\ Move\ o\ inimigo\ conforme\ a\ dire\u00E7\u00E3o\ indicada.\r\n\ Se\ houver\ um\ obst\u00E1culo,\ ele\ tenta\ desviar\ levemente.\r\n
+numComments=3

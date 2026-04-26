@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ElixirNegro
+comment0.text=\r\n\ Item\ que\ concede\ velocidade\ tempor\u00E1ria\ ao\ jogador.\r\n\ \r\n\ Assim\ que\ coletado\:\r\n\ -\ aplica\ o\ efeito\ de\ aumento\ de\ velocidade\r\n\ -\ remove\ o\ item\ do\ mapa\r\n\ -\ reproduz\ o\ som\ correspondente\r\n\r\n\ Pode\ ser\ usado\ por\ qualquer\ jogador\ que\ implemente\r\n\ os\ m\u00E9todos\ podeUsarElixir()\ e\ ativarVelocidadeTemporaria().\r\n
+comment1.params=
+comment1.target=ElixirNegro()
+comment2.params=jogador
+comment2.target=void\ coletar(JogadorBase)
+numComments=3

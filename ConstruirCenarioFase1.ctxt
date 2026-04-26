@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ConstruirCenarioFase1
+comment0.text=\r\n\ Constr\u00F3i\ os\ elementos\ espec\u00EDficos\ da\ fase\ 1.\r\n
+comment1.params=mundo
+comment1.target=ConstruirCenarioFase1(FaseBase)
+comment2.params=
+comment2.target=void\ construirCenarioBase()
+comment2.text=\r\n\ Cria\ os\ elementos\ principais\ da\ fase1\:\ torres,\ personagens\ e\ estruturas\ fixas.\r\n
+numComments=3

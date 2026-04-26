@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=JogadorFase1
+comment0.text=\r\n\ Jogador\ usado\ na\ Fase\ 1.\r\n\ N\u00E3o\ possui\ deslize,\ nem\ velocidade\ tempor\u00E1ria,\ nem\ chave.\r\n\ Usa\ somente\ os\ recursos\ b\u00E1sicos\ da\ classe\ JogadorBase.\r\n
+numComments=1

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ControleAnimacao
+comment0.text=\r\n\ Classe\ simples\ para\ controlar\ anima\u00E7\u00F5es\ de\ personagens\ e\ objetos.\r\n\ Ela\ define\ a\ velocidade\ de\ troca\ das\ imagens\ (quadros)\r\n\ e\ permite\ reiniciar\ ou\ detectar\ o\ fim\ da\ anima\u00E7\u00E3o.\r\n
+comment1.params=velocidade\ quadros
+comment1.target=ControleAnimacao(int,\ greenfoot.GreenfootImage[])
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ proximoFrame()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getFrameAtual()
+comment4.params=
+comment4.target=boolean\ acabou()
+comment5.params=
+comment5.target=void\ reiniciar()
+numComments=6

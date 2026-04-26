@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pontuacao
+comment0.text=\r\n\ Classe\ respons\u00E1vel\ por\ controlar\ a\ pontua\u00E7\u00E3o\ do\ jogador.\r\n\ Armazena,\ soma,\ reseta\ e\ fornece\ o\ valor\ atual\ dos\ pontos.\r\n\ Tamb\u00E9m\ define\ o\ limite\ de\ pontua\u00E7\u00E3o\ para\ liberar\ a\ sa\u00EDda\ da\ fase.\r\n
+comment1.params=valorAdiciona
+comment1.target=void\ adicionar(int)
+comment1.text=\r\n\ Soma\ pontos\ ao\ total\ atual.\r\n\ Chamado,\ por\ exemplo,\ quando\ o\ jogador\ coleta\ uma\ coroa.\r\n
+comment2.params=
+comment2.target=void\ resetar()
+comment2.text=\r\n\ Reinicia\ a\ pontua\u00E7\u00E3o\ para\ zero.\r\n\ Usado\ no\ in\u00EDcio\ de\ cada\ nova\ fase.\r\n
+comment3.params=
+comment3.target=int\ getPontos()
+comment3.text=\r\n\ Retorna\ o\ valor\ atual\ da\ pontua\u00E7\u00E3o.\r\n
+comment4.params=
+comment4.target=int\ getPontuacaoNecessaria()
+comment4.text=\r\n\ Retorna\ o\ valor\ limite\ necess\u00E1rio\ para\ abrir\ a\ sa\u00EDda\ da\ fase.\r\n
+numComments=5

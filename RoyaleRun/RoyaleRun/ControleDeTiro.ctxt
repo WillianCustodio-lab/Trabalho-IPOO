@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ControleDeTiro
+comment0.text=\r\n\ Essa\ classe\ controla\ a\ l\u00F3gica\ de\ disparo\ do\ jogador.\r\n\ Ela\ cuida\ do\ tempo\ de\ recarga,\ da\ dire\u00E7\u00E3o\ do\ tiro\ e\ da\ cria\u00E7\u00E3o\ do\ proj\u00E9til.\r\n
+comment1.params=tempoRecarga
+comment1.target=ControleDeTiro(int)
+comment1.text=\r\n\ Define\ o\ intervalo\ de\ recarga\ (em\ frames).\r\n
+comment2.params=
+comment2.target=void\ atualizar()
+comment2.text=\r\n\ Atualiza\ o\ contador\ de\ tempo\ a\ cada\ ciclo\ do\ jogo.\r\n\ Assim\ que\ ele\ atinge\ o\ limite,\ o\ jogador\ pode\ disparar\ novamente.\r\n
+comment3.params=
+comment3.target=boolean\ podeAtirar()
+comment3.text=\r\n\ Retorna\ true\ se\ o\ jogador\ j\u00E1\ pode\ atirar\ novamente.\r\n
+comment4.params=
+comment4.target=void\ resetar()
+comment4.text=\r\n\ Reinicia\ o\ tempo\ de\ recarga\ ap\u00F3s\ um\ disparo.\r\n
+comment5.params=mundo\ x\ y
+comment5.target=void\ atirar(greenfoot.World,\ int,\ int)
+comment5.text=\r\n\ Cria\ o\ tiro\ e\ define\ sua\ dire\u00E7\u00E3o\ com\ base\ na\ posi\u00E7\u00E3o\ do\ mouse.\r\n\ O\ disparo\ sempre\ sai\ um\ pouco\ \u00E0\ frente\ do\ jogador.\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Inimigo
+comment0.text=\r\n\ Representa\ o\ inimigo\ (b\u00E1rbaro)\ dentro\ do\ jogo.\r\n\ Ele\ possui\ comportamento\ pr\u00F3prio,\ movimento\ autom\u00E1tico\ e\ anima\u00E7\u00F5es\ nas\ quatro\ dire\u00E7\u00F5es.\r\n
+comment1.params=
+comment1.target=Inimigo()
+comment1.text=\r\n\ Construtor\:\ inicializa\ as\ anima\u00E7\u00F5es\ e\ as\ classes\ que\ controlam\ o\ inimigo.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ principal\ do\ ciclo\ do\ inimigo.\r\n\ Define\ a\ nova\ dire\u00E7\u00E3o\ com\ base\ no\ comportamento\ e\ move\ o\ personagem.\r\n
+comment3.params=
+comment3.target=void\ animar()
+comment3.text=\r\n\ Troca\ as\ imagens\ de\ acordo\ com\ a\ dire\u00E7\u00E3o\ atual,\r\n\ criando\ o\ efeito\ de\ anima\u00E7\u00E3o\ cont\u00EDnua.\r\n
+comment4.params=direcao\ total
+comment4.target=greenfoot.GreenfootImage[]\ carregarImagens(java.lang.String,\ int)
+comment4.text=\r\n\ Carrega\ as\ imagens\ da\ anima\u00E7\u00E3o\ de\ acordo\ com\ a\ dire\u00E7\u00E3o\ informada.\r\n
+comment5.params=dx\ dy
+comment5.target=boolean\ temObstaculo(int,\ int)
+comment5.text=\r\n\ Verifica\ se\ h\u00E1\ um\ obst\u00E1culo\ na\ dire\u00E7\u00E3o\ desejada.\r\n\ Usado\ pelo\ movimento\ para\ evitar\ colis\u00F5es.\r\n
+numComments=6

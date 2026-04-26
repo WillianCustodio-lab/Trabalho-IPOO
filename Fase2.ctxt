@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fase2
+comment0.text=\r\n\ Segunda\ fase\ do\ jogo.\r\n\ Aqui\ aparecem\ inimigos\ novos,\ blocos\ de\ gelo\ e\ itens\ que\ alteram\r\n\ a\ velocidade\ ou\ liberam\ a\ sa\u00EDda.\ \r\n\ O\ cen\u00E1rio\ \u00E9\ mais\ dif\u00EDcil\ e\ o\ jogador\ precisa\ usar\ o\ elixir\r\n\ e\ encontrar\ a\ chave\ para\ escapar.\r\n
+comment1.params=
+comment1.target=Fase2()
+comment1.text=\r\n\ Monta\ o\ mapa,\ adiciona\ estruturas\ congeladas,\r\n\ posiciona\ inimigos\ e\ configura\ os\ itens\ da\ fase.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Atualiza\u00E7\u00F5es\ da\ fase\:\r\n\ gera\ inimigos,\ itens\ e\ libera\ a\ chave\ quando\ a\ pontua\u00E7\u00E3o\ for\ suficiente.\r\n
+comment3.params=
+comment3.target=void\ gerarChave()
+comment3.text=\r\n\ Mostra\ a\ mensagem\ e\ cria\ a\ chave\ apenas\ uma\ vez.\r\n
+comment4.params=
+comment4.target=void\ jogadorDerrotado()
+comment4.text=\r\n\ A\u00E7\u00F5es\ executadas\ quando\ o\ jogador\ morre.\r\n
+comment5.params=
+comment5.target=void\ jogadorVenceu()
+comment5.text=\r\n\ A\u00E7\u00F5es\ ao\ vencer\ a\ fase.\r\n\ Envia\ o\ jogador\ para\ a\ tela\ de\ vit\u00F3ria\ da\ fase\ 2.\r\n
+comment6.params=
+comment6.target=void\ started()
+comment6.text=\r\n\ M\u00FAsica\ volta\ ao\ entrar\ na\ fase.\r\n
+comment7.params=
+comment7.target=void\ stopped()
+comment7.text=\r\n\ M\u00FAsica\ para\ quando\ sair\ da\ fase.\r\n
+numComments=8

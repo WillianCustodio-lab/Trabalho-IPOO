@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TiroPrincesa
+comment0.text=\r\n\ Representa\ o\ proj\u00E9til\ disparado\ pela\ Princesa.\r\n\ \r\n\ Ele\ se\ move\ para\ baixo\ e,\ ao\ colidir\ com\ o\ jogador,\r\n\ causa\ o\ fim\ da\ partida.\ Tamb\u00E9m\ \u00E9\ removido\ ao\ sair\ da\ tela.\r\n
+comment1.params=
+comment1.target=TiroPrincesa()
+comment1.text=\r\n\ Construtor\:\ define\ a\ dire\u00E7\u00E3o\ inicial\ do\ tiro.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Atualiza\ o\ comportamento\ do\ tiro\ a\ cada\ ciclo.\r\n
+comment3.params=
+comment3.target=void\ verificarColisaoJogador()
+comment3.text=\r\n\ Detecta\ colis\u00E3o\ com\ o\ jogador.\r\n\ Se\ o\ jogador\ for\ atingido,\ encerra\ a\ partida.\r\n
+comment4.params=
+comment4.target=void\ verificarLimite()
+comment4.text=\r\n\ Remove\ o\ tiro\ ao\ sair\ dos\ limites\ do\ mundo.\r\n
+numComments=5

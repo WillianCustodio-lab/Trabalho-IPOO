@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TelaDerrota
+comment0.text=\r\n\ \r\n\ Mostra\ a\ tela\ de\ derrota\ ao\ encerrar\ o\ jogo.\r\n
+comment1.params=
+comment1.target=TelaDerrota()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TelaDerrota.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

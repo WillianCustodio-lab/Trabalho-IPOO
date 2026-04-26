@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GeradorInimigos
+comment0.text=\r\n\ Respons\u00E1vel\ por\ gerar\ inimigos\ de\ tempos\ em\ tempos\ na\ fase.\r\n\ Os\ inimigos\ aparecem\ sempre\ em\ uma\ coordenada\ espec\u00EDfica\ do\ mapa,\r\n\ simulando\ um\ "ponto\ de\ surgimento"\ (como\ uma\ cabana\ de\ b\u00E1rbaros,\ por\ exemplo).\r\n
+comment1.params=fase
+comment1.target=GeradorInimigos(Fase1)
+comment2.params=
+comment2.target=void\ atualizar()
+comment2.text=\r\n\ Chamado\ a\ cada\ ciclo\ do\ jogo.\r\n\ Quando\ o\ contador\ atinge\ o\ intervalo\ definido,\ cria\ um\ novo\ inimigo.\r\n
+comment3.params=
+comment3.target=void\ gerarInimigo()
+comment3.text=\r\n\ Cria\ um\ novo\ inimigo\ em\ uma\ coordenada\ fixa\ da\ fase.\r\n\ Essa\ posi\u00E7\u00E3o\ serve\ como\ "base"\ de\ onde\ os\ inimigos\ surgem.\r\n
+numComments=4

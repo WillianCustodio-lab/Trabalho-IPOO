@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=JogadorFase3
+comment0.text=\r\n\ Jogador\ usado\ na\ Fase\ 3.\r\n\ \r\n\ Inclui\:\r\n\ \u2022\ velocidade\ tempor\u00E1ria\ ativada\ pelo\ Elixir\ Negro\r\n\ \u2022\ controle\ da\ chave\ para\ liberar\ a\ sa\u00EDda\r\n\ \u2022\ tratamento\ especial\ quando\ o\ chefe\ derrota\ o\ jogador\r\n
+comment1.params=
+comment1.target=JogadorFase3()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=aumento\ duracao
+comment3.target=void\ ativarVelocidadeTemporaria(int,\ int)
+comment3.text=\r\n\ Ativa\ um\ aumento\ tempor\u00E1rio\ de\ velocidade.\r\n\ O\ valor\ aumenta\ imediatamente\ e\ dura\ at\u00E9\ o\ tempo\ acabar.\r\n
+comment4.params=
+comment4.target=void\ atualizarVelocidadeTemporaria()
+comment4.text=\r\n\ Conta\ a\ dura\u00E7\u00E3o\ da\ velocidade\ extra.\r\n\ Quando\ o\ tempo\ chega\ ao\ fim,\ a\ velocidade\ volta\ ao\ normal.\r\n
+comment5.params=
+comment5.target=void\ morrerPorAtaqueChefe()
+comment5.text=\r\n\ Usado\ quando\ o\ chefe\ da\ fase\ 3\ atinge\ o\ jogador.\r\n\ Desativa\ o\ jogador\ e\ pede\ \u00E0\ fase\ que\ trate\ a\ derrota.\r\n
+comment6.params=
+comment6.target=boolean\ podeUsarElixir()
+comment6.text=\r\n\ Permite\ que\ o\ jogador\ desta\ fase\ utilize\ o\ Elixir\ Negro.\r\n
+comment7.params=
+comment7.target=void\ coletarChave()
+comment7.text=\r\n\ Marca\ que\ a\ chave\ foi\ coletada.\r\n
+comment8.params=
+comment8.target=boolean\ temChave()
+comment8.text=\r\n\ Indica\ se\ o\ jogador\ j\u00E1\ pegou\ a\ chave.\r\n\ Usado\ pela\ fase\ para\ liberar\ a\ sa\u00EDda.\r\n
+numComments=9

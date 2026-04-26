@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tiro
+comment0.text=\r\n\ Representa\ o\ proj\u00E9til\ disparado\ pelo\ jogador.\r\n\ \r\n\ O\ tiro\ se\ move\ na\ dire\u00E7\u00E3o\ indicada\ e\ desaparece\ ao\:\r\n\ \ atingir\ um\ inimigo\ (removendo-o\ do\ jogo);\r\n\ \ colidir\ com\ um\ obst\u00E1culo;\r\n\ \ ou\ sair\ dos\ limites\ do\ mundo.\r\n
+comment1.params=angulo
+comment1.target=Tiro(int)
+comment1.text=\r\n\ Construtor\ que\ define\ o\ \u00E2ngulo\ de\ disparo.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Executado\ a\ cada\ ciclo\ do\ jogo.\r\n\ Controla\ o\ movimento\ e\ as\ colis\u00F5es\ do\ tiro.\r\n
+comment3.params=
+comment3.target=void\ removerTiro()
+comment3.text=\r\n\ Remove\ o\ tiro.\r\n
+numComments=4

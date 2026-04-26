@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Buttons
+comment0.text=\r\n\ Classe\ base\ para\ os\ bot\u00F5es\ do\ menu.\r\n\ Ela\ controla\ o\ efeito\ visual\ quando\ o\ mouse\ passa\ por\ cima\r\n\ e\ tamb\u00E9m\ o\ comportamento\ de\ clicar\ e\ mudar\ de\ tela.\r\n
+comment1.params=
+comment1.target=void\ checkMouse()
+comment1.text=\r\n\ Verifica\ se\ o\ mouse\ est\u00E1\ sobre\ o\ bot\u00E3o\ e\ ajusta\ a\ transpar\u00EAncia.\r\n\ D\u00E1\ um\ leve\ efeito\ visual\ para\ destacar\ quando\ o\ bot\u00E3o\ \u00E9\ selecionado.\r\n
+comment2.params=world
+comment2.target=void\ checkClick(greenfoot.World)
+comment2.text=\r\n\ Verifica\ se\ o\ bot\u00E3o\ foi\ clicado\ e\ muda\ para\ o\ mundo\ informado.\r\n\ Cada\ bot\u00E3o\ pode\ abrir\ uma\ tela\ diferente\ (como\ o\ menu\ ou\ a\ fase).\r\n
+comment3.params=valor
+comment3.target=void\ ajustarTransparencia(int)
+comment3.text=\r\n\ Ajusta\ a\ transpar\u00EAncia\ da\ imagem\ do\ bot\u00E3o.\r\n\ \u00C9\ usada\ internamente\ para\ dar\ o\ efeito\ visual\ no\ hover.\r\n
+numComments=4

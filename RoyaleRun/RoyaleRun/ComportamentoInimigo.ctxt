@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ComportamentoInimigo
+comment0.text=\r\n\ Classe\ respons\u00E1vel\ por\ definir\ o\ comportamento\ inteligente\ do\ inimigo.\r\n\ Ela\ decide\ quando\ mudar\ de\ dire\u00E7\u00E3o,\ perseguir\ o\ jogador\ ou\ mirar\ nas\ coroas.\r\n
+comment1.params=inimigo
+comment1.target=ComportamentoInimigo(Inimigo)
+comment2.params=direcaoAtual
+comment2.target=java.lang.String\ definirNovaDirecao(java.lang.String)
+comment2.text=\r\n\ Define\ a\ nova\ dire\u00E7\u00E3o\ do\ inimigo\ a\ cada\ ciclo.\r\n\ H\u00E1\ uma\ pequena\ chance\ de\ mudar\ de\ forma\ aleat\u00F3ria,\r\n\ mirar\ em\ uma\ coroa\ ou\ perseguir\ o\ jogador.\r\n
+comment3.params=
+comment3.target=java.lang.String\ novaDirecaoAleatoria()
+comment3.text=\r\n\ Escolhe\ aleatoriamente\ uma\ das\ quatro\ dire\u00E7\u00F5es\ principais.\r\n
+comment4.params=
+comment4.target=ItemCoroa\ buscarCoroa()
+comment4.text=\r\n\ Busca\ uma\ coroa\ aleat\u00F3ria\ no\ mundo\ (usada\ como\ alvo).\r\n
+comment5.params=
+comment5.target=Jogador\ buscarJogador()
+comment5.text=\r\n\ Busca\ o\ jogador\ no\ mundo\ (geralmente\ h\u00E1\ apenas\ um).\r\n
+comment6.params=x\ y
+comment6.target=java.lang.String\ ajustarDirecaoPara(int,\ int)
+comment6.text=\r\n\ Calcula\ qual\ dire\u00E7\u00E3o\ seguir\ (horizontal\ ou\ vertical)\r\n\ com\ base\ na\ posi\u00E7\u00E3o\ do\ alvo.\r\n
+numComments=7

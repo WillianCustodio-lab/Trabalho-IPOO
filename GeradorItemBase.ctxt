@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GeradorItemBase
+comment0.text=\r\n\ Classe\ base\ para\ qualquer\ gerador\ de\ itens.\r\n\ \r\n\ Controla\:\r\n\ -\ refer\u00EAncia\ para\ a\ fase\ onde\ o\ item\ ser\u00E1\ criado\r\n\ -\ intervalo\ entre\ gera\u00E7\u00F5es\r\n\ -\ contador\ interno\ de\ tempo\r\n\r\n\ As\ subclasses\ implementam\ apenas\ como\ o\ item\ ser\u00E1\ criado.\r\n
+comment1.params=fase
+comment1.target=GeradorItemBase(FaseBase)
+comment1.text=\r\n\ Cria\ o\ gerador\ usando\ o\ intervalo\ padr\u00E3o.\r\n
+comment2.params=fase\ intervalo
+comment2.target=GeradorItemBase(FaseBase,\ int)
+comment2.text=\r\n\ Cria\ o\ gerador\ com\ um\ intervalo\ espec\u00EDfico.\r\n
+comment3.params=
+comment3.target=void\ atualizar()
+comment3.text=\r\n\ Atualiza\ o\ contador.\r\n\ Quando\ o\ tempo\ chega\ no\ intervalo,\ dispara\ a\ cria\u00E7\u00E3o\ do\ item.\r\n
+comment4.params=
+comment4.target=void\ gerarItem()
+comment4.text=\r\n\ Subclasses\ definem\ o\ que\ ser\u00E1\ criado\ e\ como\ ser\u00E1\ posicionado.\r\n
+comment5.params=
+comment5.target=FaseBase\ getFase()
+comment5.text=\r\n\ Acesso\ ao\ mundo\ da\ fase\ para\ facilitar\ a\ gera\u00E7\u00E3o\ do\ item.\r\n
+numComments=6

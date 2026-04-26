@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ItemCoroa
+comment0.text=\r\n\ Representa\ o\ item\ "Coroa"\ do\ jogo.\r\n\ Esse\ item\ \u00E9\ coletado\ pelo\ jogador\ para\ ganhar\ pontos\ e\ possui\ uma\ anima\u00E7\u00E3o\ cont\u00EDnua.\r\n
+comment1.params=
+comment1.target=ItemCoroa()
+comment1.text=\r\n\ Construtor\:\ carrega\ as\ imagens\ e\ define\ a\ primeira\ imagem\ exibida.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ chamado\ a\ cada\ ciclo\ do\ jogo.\r\n\ Faz\ a\ anima\u00E7\u00E3o\ da\ coroa\ girando\ continuamente.\r\n
+comment3.params=
+comment3.target=void\ carregarImagens()
+comment3.text=\r\n\ Carrega\ as\ imagens\ da\ coroa\ em\ sequ\u00EAncia\ (de\ coroa1.png\ a\ coroa7.png).\r\n\ Essas\ imagens\ s\u00E3o\ usadas\ para\ dar\ o\ efeito\ de\ rota\u00E7\u00E3o.\r\n
+comment4.params=
+comment4.target=void\ animar()
+comment4.text=\r\n\ Faz\ a\ troca\ dos\ frames\ da\ anima\u00E7\u00E3o.\r\n\ O\ contador\ garante\ que\ a\ mudan\u00E7a\ de\ imagem\ aconte\u00E7a\ em\ um\ ritmo\ constante.\r\n
+numComments=5

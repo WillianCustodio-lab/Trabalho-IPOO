@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BarraVidaMega
+comment0.text=\r\n\ Barra\ de\ vida\ do\ Mega\ Cavaleiro.\r\n\ Exibe\ imagens\ diferentes\ conforme\ o\ chefe\ perde\ vida.\r\n\ Cada\ imagem\ representa\ um\ n\u00EDvel\ de\ 0%\ a\ 100%,\ variando\ de\ 10\ em\ 10.\r\n
+comment1.params=
+comment1.target=BarraVidaMega()
+comment1.text=\r\n\ Prepara\ todas\ as\ imagens\ da\ barra\ e\ exibe\ o\ estado\ inicial\ (100%).\r\n
+comment2.params=
+comment2.target=void\ carregarImagens()
+comment2.text=\r\n\ Carrega\ todas\ as\ imagens\ da\ barra.\r\n\ Os\ arquivos\ devem\ seguir\ o\ padr\u00E3o\:\r\n
+comment3.params=vidaMega
+comment3.target=void\ atualizar(int)
+comment3.text=\r\n\ Atualiza\ a\ barra\ conforme\ a\ vida\ atual\ do\ chefe.\r\n\ Recebe\ um\ valor\ entre\ 0\ e\ 100.\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GeradorCoroa
+comment0.text=\r\n\ Gerador\ respons\u00E1vel\ por\ criar\ coroas\ no\ mapa.\r\n\r\n\ A\ coroa\ s\u00F3\ pode\ existir\ uma\ por\ vez\:\r\n\ -\ usa\ um\ booleano\ para\ evitar\ m\u00FAltiplas\ gera\u00E7\u00F5es\r\n\ -\ gera\ uma\ nova\ coroa\ ap\u00F3s\ o\ jogador\ coletar\ a\ anterior\r\n\ -\ tempo\ entre\ gera\u00E7\u00F5es\ \u00E9\ passado\ para\ a\ superclasse\r\n
+comment1.params=fase
+comment1.target=GeradorCoroa(FaseBase)
+comment1.text=\r\n\ Inicia\ o\ gerador\ com\ intervalo\ fixo\ para\ spawn.\r\n\ Tamb\u00E9m\ reseta\ o\ controle\ de\ exist\u00EAncia\ da\ coroa.\r\n
+comment2.params=
+comment2.target=void\ gerarItem()
+comment2.text=\r\n\ Gera\ uma\ coroa\ em\ uma\ posi\u00E7\u00E3o\ livre\ do\ mapa.\r\n\ S\u00F3\ gera\ uma\ nova\ quando\ a\ anterior\ tiver\ sido\ coletada.\r\n
+comment3.params=
+comment3.target=void\ coroaColetada()
+comment3.text=\r\n\ Chamado\ pela\ classe\ ItemCoroa\ quando\ o\ jogador\ coleta\ a\ coroa.\r\n\ Permite\ que\ uma\ nova\ seja\ gerada\ futuramente.\r\n
+numComments=4

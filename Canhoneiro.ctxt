@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Canhoneiro
+comment0.text=\r\n\ Inimigo\ da\ torre\ para\ a\ Fase\ 3\:\ Canhoneiro.\r\n\ Usar\u00E1\ imagens\ e\ sons\ pr\u00F3prios.\r\n
+comment1.params=
+comment1.target=Canhoneiro()
+comment2.params=
+comment2.target=void\ atirar()
+numComments=3

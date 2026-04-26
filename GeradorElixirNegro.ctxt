@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GeradorElixirNegro
+comment0.text=\r\n\ Gerador\ respons\u00E1vel\ por\ criar\ o\ item\ Elixir\ Negro.\r\n\r\n\ Apenas\ um\ elixir\ pode\ existir\ por\ vez\ no\ mapa\:\r\n\ -\ utiliza\ um\ booleano\ para\ impedir\ m\u00FAltiplos\ spawns\r\n\ -\ s\u00F3\ cria\ outro\ ap\u00F3s\ o\ jogador\ coletar\ o\ anterior\r\n\ -\ intervalo\ de\ gera\u00E7\u00E3o\ definido\ na\ superclasse\r\n
+comment1.params=fase
+comment1.target=GeradorElixirNegro(FaseBase)
+comment1.text=\r\n\ Cria\ o\ gerador\ do\ Elixir\ Negro\ com\ intervalo\ de\ spawn.\r\n
+comment2.params=
+comment2.target=void\ gerarItem()
+comment2.text=\r\n\ Gera\ o\ elixir\ em\ uma\ posi\u00E7\u00E3o\ livre.\r\n\ Garante\ que\ apenas\ um\ exista\ por\ vez.\r\n
+comment3.params=
+comment3.target=void\ elixirColetado()
+comment3.text=\r\n\ Chamado\ quando\ o\ jogador\ coleta\ o\ elixir.\r\n\ Libera\ o\ pr\u00F3ximo\ spawn.\r\n
+numComments=4

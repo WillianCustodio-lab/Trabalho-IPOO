@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RestricaoCenario
+comment0.text=\r\n\ Limita\ a\ area\ lateral\ do\ cen\u00E1rio\r\n
+comment1.params=
+comment1.target=RestricaoCenario()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ RestricaoCenario\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

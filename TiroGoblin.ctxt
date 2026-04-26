@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TiroGoblin
+comment0.text=\r\n\ Representa\ o\ proj\u00E9til\ disparado\ pelo\ jogador.\r\n\ \r\n\ O\ tiro\ se\ move\ na\ dire\u00E7\u00E3o\ indicada\ e\ desaparece\ ao\:\r\n\ \ atingir\ um\ inimigo;\r\n\ \ colidir\ com\ obst\u00E1culo\ s\u00F3lido;\r\n\ \ ou\ sair\ dos\ limites.\r\n
+comment1.params=angulo
+comment1.target=TiroGoblin(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ colisaoComInimigo()
+comment4.params=
+comment4.target=boolean\ colisaoComChefe()
+comment5.params=
+comment5.target=boolean\ colisaoComObstaculo()
+comment6.params=
+comment6.target=void\ removerTiro()
+numComments=7

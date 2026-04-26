@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GeradorCoroas
+comment0.text=\r\n\ Classe\ respons\u00E1vel\ por\ gerar\ novas\ coroas\ no\ mapa\ de\ tempos\ em\ tempos.\r\n\ As\ coroas\ aparecem\ em\ locais\ livres,\ longe\ de\ obst\u00E1culos\ e\ do\ jogador.\r\n
+comment1.params=fase
+comment1.target=GeradorCoroas(Fase1)
+comment2.params=
+comment2.target=void\ atualizar()
+comment2.text=\r\n\ Atualiza\ o\ gerador\ a\ cada\ frame.\r\n\ Quando\ o\ contador\ atinge\ o\ tempo\ definido,\ cria\ uma\ nova\ coroa\ em\ posi\u00E7\u00E3o\ aleat\u00F3ria.\r\n
+comment3.params=
+comment3.target=int[]\ encontrarPosicaoLivre()
+comment3.text=\r\n\ Escolhe\ uma\ posi\u00E7\u00E3o\ aleat\u00F3ria\ no\ mapa\ que\ esteja\ livre\ de\ obst\u00E1culos,\ jogador\ e\ outras\ coroas.\r\n\ Faz\ at\u00E9\ 20\ tentativas\ antes\ de\ desistir,\ para\ evitar\ loop\ infinito.\r\n
+numComments=4

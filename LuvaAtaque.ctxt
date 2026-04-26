@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LuvaAtaque
+comment0.text=\r\n\ Luva\ que\ cai\ do\ c\u00E9u\ ap\u00F3s\ a\ sombra\ aparecer.\r\n\ Possui\ anima\u00E7\u00E3o\ pr\u00F3pria\ e\ causa\ dano\ ao\ jogador.\r\n
+comment1.params=
+comment1.target=LuvaAtaque()
+comment2.params=
+comment2.target=greenfoot.GreenfootImage[]\ carregarFrames()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ verificarColisaoComJogador()
+numComments=5

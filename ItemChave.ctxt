@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ItemChave
+comment0.text=\r\n\ Item\ respons\u00E1vel\ por\ liberar\ a\ sa\u00EDda\ do\ mapa.\r\n\ \r\n\ Quando\ coletado\:\r\n\ -\ registra\ no\ jogador\ que\ a\ chave\ foi\ obtida\r\n\ -\ libera\ a\ sa\u00EDda\ da\ fase\ (torre\ abre)\r\n\ -\ toca\ o\ som\ da\ chave\r\n\ -\ remove\ o\ item\r\n
+comment1.params=
+comment1.target=ItemChave()
+comment2.params=jogador
+comment2.target=void\ coletar(JogadorBase)
+numComments=3

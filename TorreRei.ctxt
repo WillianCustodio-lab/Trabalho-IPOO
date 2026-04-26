@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TorreRei
+comment0.text=\r\n\ Representa\ a\ torre\ central\ (do\ rei)\ na\ fase.\r\n\ Ela\ come\u00E7a\ fechada\ e\ s\u00F3\ se\ abre\ quando\ o\ jogador\ atinge\ uma\ certa\ pontua\u00E7\u00E3o.\r\n\ Ap\u00F3s\ a\ anima\u00E7\u00E3o\ de\ abertura,\ o\ jogador\ pode\ encostar\ na\ frente\ dela\ para\ vencer\ o\ jogo.\r\n
+comment1.params=
+comment1.target=TorreRei()
+comment2.params=
+comment2.target=greenfoot.GreenfootImage[]\ carregarImagens()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ iniciarAbertura()
+comment5.params=
+comment5.target=boolean\ isSaidaAberta()
+comment6.params=
+comment6.target=void\ detectarJogadorProximo()
+comment6.text=\r\n\ Detecta\ se\ o\ jogador\ est\u00E1\ na\ frente\ da\ torre\ (sem\ precisar\ encostar).\r\n\ A\ colis\u00E3o\ n\u00E3o\ \u00E9\ usada\ aqui\ porque\ a\ torre\ ainda\ \u00E9\ um\ obst\u00E1culo.\r\n
+numComments=7

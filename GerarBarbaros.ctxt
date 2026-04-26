@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GerarBarbaros
+comment0.text=\r\n\ Respons\u00E1vel\ por\ gerar\ inimigos\ B\u00E1rbaros\ de\ forma\ peri\u00F3dica.\r\n
+comment1.params=fase
+comment1.target=GerarBarbaros(FaseBase)
+comment2.params=
+comment2.target=void\ atualizar()
+comment2.text=\r\n\ Chamado\ uma\ vez\ por\ ciclo\ no\ m\u00E9todo\ act()\ da\ fase.\r\n\ Quando\ o\ contador\ atinge\ o\ intervalo,\ um\ novo\ b\u00E1rbaro\ \u00E9\ gerado.\r\n
+comment3.params=
+comment3.target=void\ gerarBarbaro()
+comment3.text=\r\n\ Gera\ um\ novo\ B\u00E1rbaro\ na\ posi\u00E7\u00E3o\ fixa\ do\ mapa.\r\n
+numComments=4

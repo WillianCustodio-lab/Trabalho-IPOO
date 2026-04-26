@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TiroCanhoneiro
+comment0.text=\r\n\ Inimigo\ da\ torre\ da\ terceira\ fase\r\n
+comment1.params=velocidade
+comment1.target=TiroCanhoneiro(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ TiroCanhoneiro\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TiroTorre
+comment0.text=\r\n\ Proj\u00E9til\ disparado\ pelos\ inimigos\ que\ ficam\ nas\ torres.\r\n\ \r\n\ Se\ move\ para\ baixo\ at\u00E9\:\r\n\ -\ acertar\ o\ jogador\r\n\ -\ ou\ sair\ dos\ limites\ do\ mundo\r\n\r\n\ Quando\ acerta\ o\ jogador,\ remove\ o\ jogador\ do\ mapa\ e\ notifica\r\n\ a\ fase\ para\ encerrar\ a\ partida\ com\ derrota.\r\n
+comment1.params=velocidade
+comment1.target=TiroTorre(int)
+comment1.text=\r\n\ Cria\ o\ tiro\ j\u00E1\ configurado\ para\ descer.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Roda\ a\ cada\ ciclo.\r\n\ Movimenta\ o\ tiro\ e\ verifica\ colis\u00F5es.\r\n
+comment3.params=
+comment3.target=void\ verificarColisaoJogador()
+comment3.text=\r\n\ Quando\ o\ tiro\ encosta\ no\ jogador\:\r\n\ -\ remove\ o\ jogador\r\n\ -\ marca\ o\ jogador\ como\ morto\r\n\ -\ chama\ o\ m\u00E9todo\ de\ derrota\ da\ fase\r\n\ -\ remove\ o\ pr\u00F3prio\ tiro\r\n
+comment4.params=
+comment4.target=void\ verificarLimite()
+comment4.text=\r\n\ Remove\ o\ tiro\ assim\ que\ ele\ sai\ da\ tela.\r\n
+numComments=5

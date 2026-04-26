@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ConstruirCenarioBase
+comment0.text=\r\n\ Classe\ base\ respons\u00E1vel\ por\ gerar\ elementos\ comuns\ do\ cen\u00E1rio,\r\n\ como\ o\ rio\ e\ as\ bordas\ laterais\ do\ mapa.\r\n\ \r\n\ As\ fases\ espec\u00EDficas\ v\u00E3o\ herdar\ desta\ classe..\r\n
+comment1.params=mundo
+comment1.target=ConstruirCenarioBase(FaseBase)
+comment1.text=\r\n\ Recebe\ uma\ refer\u00EAncia\ ao\ mundo\ principal,\r\n\ permitindo\ adicionar\ objetos\ diretamente\ nele.\r\n
+comment2.params=
+comment2.target=void\ construirCenarioBase()
+comment2.text=\r\n\ M\u00E9todo\ vazio\ que\ as\ subclasses\ v\u00E3o\ sobrescrever\ para\r\n\ adicionar\ o\ conte\u00FAdo\ principal\ do\ cen\u00E1rio.\r\n
+comment3.params=
+comment3.target=void\ gerarAmbiente()
+comment3.text=\r\n\ Cria\ os\ obst\u00E1culos\ secund\u00E1rios\ do\ mapa,\ como\ o\ rio\ e\ as\ bordas\ laterais.\r\n
+comment4.params=
+comment4.target=void\ mapearRioComoObstaculo()
+comment4.text=\r\n\ Desenha\ o\ rio\ no\ cen\u00E1rio,\ impedindo\ a\ passagem\ de\ personagens.\r\n\ A\ ponte\ \u00E9\ deixada\ livre\ para\ passagem.\r\n
+comment5.params=
+comment5.target=void\ mapearRestricaoCenario()
+comment5.text=\r\n\ Adiciona\ barreiras\ invis\u00EDveis\ nas\ laterais\ do\ mapa\ para\ evitar\ que\r\n\ o\ jogador\ ou\ inimigos\ saiam\ da\ \u00E1rea\ de\ combate.\r\n
+numComments=6

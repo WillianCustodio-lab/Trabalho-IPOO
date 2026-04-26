@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Barbaro
+comment0.text=\r\n\ Inimigo\ B\u00E1rbaro.\r\n\ Possui\ velocidade\ moderada\ e\ comportamento\ agressivo\ em\ movimento.\r\n\ \r\n\ Utiliza\ as\ anima\u00E7\u00F5es\ e\ m\u00E9todos\ herdados\ de\ InimigoBase,\r\n\ configurando\ apenas\ o\ que\ \u00E9\ espec\u00EDfico\ do\ b\u00E1rbaro.\r\n
+comment1.params=
+comment1.target=Barbaro()
+comment1.text=\r\n\ Construtor\ do\ B\u00E1rbaro.\r\n\ Aqui\ s\u00E3o\ carregadas\ as\ anima\u00E7\u00F5es\ e\ configurados\ os\ sistemas\ de\ movimento.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Atualiza\ movimento\ e\ anima\u00E7\u00E3o\ do\ b\u00E1rbaro.\r\n
+numComments=3
